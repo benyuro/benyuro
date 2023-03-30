@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Benedict 
 
-<!--
-**benyuro/benyuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Data Professional and Technical Writer, very passionate about learning, problem solving and self improvement.
+I also love working in sports to help athletes and coaches reach max productivity with he help of data.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on data projects and publishing content on health and performance analysis
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on data analysis projects
+- 😄 Pronouns: I'm a Man, he/him
+- ⚡ Fun fact: I'm good at football..lol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### You can reach me on:
+ - Twitter: @benyuro_19
+ 
+ Cheers
 -->
